@@ -8,13 +8,13 @@ body {
    background-color: #1f2937; 
    color: white;
    display: flex;
-   flex-flow: wrap column;
+   flex-flow: column;
    border-bottom: 3px solid #3882f6;
 }
 
 .header {
     display: flex;
-    flex-flow: row;
+    flex-direction: row;
     justify-content: space-between;
     padding: 16px;
     margin: 0;
