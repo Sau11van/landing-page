@@ -124,3 +124,26 @@ a {
     font-size: 12px;
     color: grey;
 }
+
+.content-section-2 {
+    padding: 75px;
+}
+
+.type-2 {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #3882f6;
+    margin: 15px;
+}
+
+.head-two {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.text-2 {
+    color: grey;
+    margin: 15px;
+    width: 500px;
+}
