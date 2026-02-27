@@ -9,7 +9,7 @@ body {
    color: white;
    display: flex;
    flex-flow: column;
-   border-bottom: 3px solid #3882f6;
+   border-bottom: 4px solid #3882f6;
 }
 
 .header {
@@ -67,7 +67,7 @@ a {
     font-weight: normal;
 }
 
-.desc {
+.type-1 {
     color: #3882f6;
     border: 1px solid #3882f6;
     text-transform: uppercase;
@@ -85,4 +85,25 @@ a {
     font-weight: bold;
     border-radius: 7px;
     border: 0;
+}
+
+.section-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.element {
+    display: flex;
+    background-color: #becfe6;
+    justify-content: space-between;
+}
+
+.panel {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    text-align: center;
+    gap: none;
+    padding: 12px;
+    border-right: 1px solid #1f2937;
 }
