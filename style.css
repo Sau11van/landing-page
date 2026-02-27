@@ -147,3 +147,30 @@ a {
     margin: 15px;
     width: 500px;
 }
+
+.panel-2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    margin: 90px;
+    margin-top: 0%;
+}
+.element-2 {
+    border: 1px solid #3882f6;
+    padding: 21px;
+}
+
+.img-2 {
+    margin-bottom: 15px;
+    background-color: grey;
+    padding: 6px;
+}
+
+.header-two{
+    font-size: large;
+    font-weight: bold;
+}
+
+.text-22 {
+    color: grey;
+}
