@@ -162,7 +162,7 @@ a {
 
 .img-2 {
     margin-bottom: 15px;
-    background-color: grey;
+    background-color: #3882f6;
     padding: 6px;
 }
 
@@ -173,4 +173,30 @@ a {
 
 .text-22 {
     color: grey;
+}
+
+.section-3 {
+    background-color: #1f2937;
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.text-3 {
+    color: white;
+    text-align: center;
+    font-size: 27px;
+    font-style: italic;
+    margin: 0;
+}
+
+.type-3 {
+    color: #3882f6;
+    text-transform: uppercase;
+    text-align: right;
+    margin: 0%;
+}
+
+.content-section-3 {
+    width: 900px;
 }
