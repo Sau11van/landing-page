@@ -166,12 +166,12 @@ a {
     padding: 6px;
 }
 
-.header-two {
+.header-two, .head-four {
     font-size: large;
     font-weight: bold;
 }
 
-.text-22{
+.text-22, .text-42 {
     color: grey;
 }
 
@@ -208,4 +208,24 @@ a {
     padding: 90px;
 }
 
+.panel-4 {
+    margin-top: 75px;
+    display: flex;
+    border: 1px solid #3882f6;
+}
 
+.element-4 {
+    border-right: 1px solid #3882f6;
+    padding: 21px;
+}
+
+.element-41 {
+    padding: 21px;
+}
+
+.number-two {
+    font-size: 60px;
+    font-weight: bold;
+    color: #becfe6;
+    margin: 0%;
+}
