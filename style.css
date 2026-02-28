@@ -129,20 +129,20 @@ a {
     padding: 75px;
 }
 
-.type-2 {
+.type-2, .type-4 {
     font-size: 12px;
     text-transform: uppercase;
     color: #3882f6;
     margin: 15px;
 }
 
-.head-two {
+.head-two, .head-three {
     font-size: 36px;
     font-weight: bold;
     margin: 15px;
 }
 
-.text-2 {
+.text-2, .text-4 {
     color: grey;
     margin: 15px;
     width: 500px;
@@ -166,12 +166,12 @@ a {
     padding: 6px;
 }
 
-.header-two{
+.header-two {
     font-size: large;
     font-weight: bold;
 }
 
-.text-22 {
+.text-22{
     color: grey;
 }
 
@@ -200,3 +200,12 @@ a {
 .content-section-3 {
     width: 900px;
 }
+
+.section-4 {
+    background-color: #eef2f8;
+    display: flex;
+    flex-direction: column;
+    padding: 90px;
+}
+
+
