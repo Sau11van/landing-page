@@ -278,5 +278,17 @@ a {
     text-transform: uppercase;
     font-size: medium;
     border-radius: 6px;
-    margin: 0%;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    color: grey;
+    padding: 15px;
+    background-color: #1f2937;
+}
+
+.text-footer {
+    color: #3882f6;
 }
